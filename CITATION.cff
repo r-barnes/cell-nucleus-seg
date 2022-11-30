@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Barnes"
+  given-names: "Richard"
+  orcid: "https://orcid.org/0000-0002-0204-6040"
+title: "A simple method for extracting cell nucleus fractions from images"
+doi: 10.5281/zenodo.7382700
+date-released: 2018-08-06
+url: "https://github.com/r-barnes/cell-nucleus-seg"
